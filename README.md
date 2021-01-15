@@ -5,6 +5,8 @@ repository for my submission for AE1
 
 # <u>installation</u>
 
+You will have to run the .sql in the parent directory, in your chosen handler. This will create and populate the parent tables.
+
 the given database is a MySQL database. If you are using linux, mariaDB can be used to host the database itself. If on windows, any MySQL server will suffice.
 
 The webpage itself is all written in PHP. I used apache to host it, although any web-server that can run php will work also.
