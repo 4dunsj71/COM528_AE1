@@ -1,7 +1,7 @@
 # <u>COM528_AE1</u>
 repository for my submission for AE1
 
-*Hosted at www.alexbunt.dev/jamesdunsmore*
+# Hosted at www.alexbunt.dev/jamesdunsmore
 
 
 # <u>installation</u>
